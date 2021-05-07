@@ -18,7 +18,7 @@ Hackintosh EFI for Lenovo ThinkCentre M730Q
 
 ✅ HDMI 1080p@60Hz
 
-✅ Audio
+✅ Audio: Headphone Jack useable (layout-id 28)
 
 ✅ Ethernet
 
