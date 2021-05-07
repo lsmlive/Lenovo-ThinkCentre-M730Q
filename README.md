@@ -1,4 +1,4 @@
-# Lenovo-ThinkCentr-M730Q
+# Lenovo-ThinkCentre-M730Q
 Hackintosh EFI for Lenovo ThinkCentr M730Q
 
 # My Machine
